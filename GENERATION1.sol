@@ -38,7 +38,7 @@ contract GENERATION1 is ERC1155, Ownable {
 
   uint256 public constant WEEDLE = 24;
   uint256 public constant HOLO_WEEDLE = 25;
-  uint256 public constant Kakuna = 26;
+  uint256 public constant KAKUNA = 26;
   uint256 public constant HOLO_KAKUNA = 27;
   uint256 public constant BEEDRILL = 28;
   uint256 public constant HOLO_BEEDRILL = 29;
