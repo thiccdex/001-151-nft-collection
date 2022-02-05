@@ -474,7 +474,7 @@ contract GENERATION1 is ERC1155, Ownable {
 
     _mint(msg.sender, SANDSHREW, COMMON_AMOUNT, "");
     _mint(msg.sender, HOLO_SANDSHREW, HOLO_AMOUNT, "");
-    _mint(msg.sender, SANDSLASH, RARE_AMOUNT, "");
+    _mint(msg.sender, SANDSLASH, UNCOMMON_AMOUNT, "");
     _mint(msg.sender, HOLO_SANDSLASH, HOLO_AMOUNT, "");
 
     _mint(msg.sender, NIDORAN_F, COMMON_AMOUNT, "");
